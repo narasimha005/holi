@@ -28,10 +28,6 @@ class Argentine extends Country
         ], $this->variableHolidays($year));
     }
 
-
-
-
-    
     /** @return array<string, CarbonImmutable> */
     protected function variableHolidays(int $year): array
     {
