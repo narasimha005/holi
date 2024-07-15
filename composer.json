@@ -32,7 +32,7 @@
         "phpstan/phpstan": "^1.10.56",
         "spatie/invade": "^2.0",
         "spatie/ray": "^1.40.1",
-        "symfony/var-dumper": "^6.4"
+        "symfony/var-dumper": "^7.1"
     },
     "autoload": {
         "psr-4": {
