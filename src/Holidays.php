@@ -15,8 +15,7 @@ class Holidays
         protected Country $country,
         protected int $year,
         protected ?string $locale = null,
-    ) {
-    }
+    ) {}
 
     public static function for(Country|string $country, ?int $year = null, ?string $locale = null): static
     {
